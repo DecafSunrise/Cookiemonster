@@ -5,6 +5,6 @@
   "project_short_description": "Python Boilerplate contains all the boilerplate you need to create a Python package.",
   "version": "0.1.0",
   "use_black": "y",
-  "command_line_interface": "Argparse",
   "create_author_file": "y",
+  "command_line_interface": "Argparse"
 }
